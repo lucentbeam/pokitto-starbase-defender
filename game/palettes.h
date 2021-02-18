@@ -1,0 +1,10 @@
+#ifndef PALETTES_H
+#define PALETTES_H
+
+#include <cstdint>
+
+const uint16_t palette[] = {
+4135,6474,16949,33560,1058,1573,31018,24811,11215,38394,65402,63497,64768,65380,18078,64437,
+};
+
+#endif // PALETTES_H

@@ -1,0 +1,5 @@
+
+*.elf
+*.bin
+pokitto-base.pro.user
+img2pok.exe
